@@ -1,7 +1,7 @@
-- 👋 Hello World! I’m Rafael Mafort Coimbra
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning systems analysis and development in FIAP
-- 📫 How to reach me: rafaelmafortc@gmail.com
+- 👋 Olá Mundo! Meu nome é Rafael Mafort Coimbra
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+- 🚀 Sempre em busca de conhecimento e evolução
+- 📫 Contato: rafaelmafortc@gmail.com
 
 <!---
 raafamafort/raafamafort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
