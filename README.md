@@ -1,8 +1,9 @@
-<h1 style="text-align: center;"> Hello World!🌎<br>
- Meu nome é Rafael Mafort Coimbra </h1>
+<h1 align="center" dir="auto"> Hello World!🌎</h1>
+<h2 align="center" dir="auto">Meu nome é Rafael Mafort Coimbra </h2>
 
 - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 - 🚀 Sempre em busca de conhecimento e evolução
+- 🧠 Foco em desenvolvimento Back-End
 - 📫 Contato: rafaelmafortc@gmail.com
 
 <h2>🛠Tecnologias:</h2>
