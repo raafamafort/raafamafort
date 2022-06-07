@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 - 🚀 Sempre em busca de conhecimento e evolução
-- 🧠 Foco em desenvolvimento Back-End
+- 🧠 Full-Stack com foco em Back-End
 - 📫 Contato: rafaelmafortc@gmail.com
 
 <h2>🛠Tecnologias:</h2>
