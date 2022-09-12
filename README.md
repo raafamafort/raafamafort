@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto"> Hello World!🌎</h1>
+<h1 align="center" dir="auto"> Hello World🌎</h1>
 <h2 align="center" dir="auto">Meu nome é Rafael Mafort Coimbra </h2>
 
 - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
