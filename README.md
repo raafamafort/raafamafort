@@ -6,10 +6,12 @@
 - 🚀 Sempre em busca de conhecimento e evolução
 
 <h2>🛠Tecnologias:</h2>
-<img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
-<img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
-<img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
-<img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
-<img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
-<img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
-<img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
+<div>
+  <img src="[https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png](https://user-images.githubusercontent.com/101189058/191053024-c90ee513-6510-4de8-b585-6c4ba0c962d6.png)" width="40" height="100%">
+  <img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
+  <img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
+  <img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
+  <img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
+  <img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
+  <img src="https://user-images.githubusercontent.com/101189058/191051538-be2197e4-3ce4-469e-81bc-7dbf7e047588.png" width="40" height="100%">
+</div>
