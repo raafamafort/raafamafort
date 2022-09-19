@@ -1,5 +1,8 @@
-<h1 align="center" dir="auto"> Hello World🌎</h1>
-<h2 align="center" dir="auto">Meu nome é Rafael Mafort Coimbra </h2>
+<h2 align="center" dir="auto"> Hello World🌎</h2>
+<h1 align="center" dir="auto">Meu nome é Rafael Mafort Coimbra </h1>
+
+
+<h2>⚡Sobre mim:</h2>
 
 - 🧠 Full-Stack
 - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
