@@ -17,7 +17,7 @@
 
 <h2>📬Contato:</h2>
 
-<div>
+<div align-itens="center">
    <img src="https://user-images.githubusercontent.com/101189058/191053033-a4bafe34-0e95-4402-963e-778121c0edcd.png" width="40" height="100%">
   <img src="https://user-images.githubusercontent.com/101189058/191053019-26eb704d-b56c-404d-a6db-5bacccbc19cc.png" width="40" height="100%">
   <img src="https://user-images.githubusercontent.com/101189058/191053030-a6542e5f-6378-47e9-8ad2-ca01cdda783b.png" width="40" height="100%">
