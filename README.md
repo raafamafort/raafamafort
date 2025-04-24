@@ -1,5 +1,3 @@
-rafaelmafort / README.md
-
 Hey, I'm Rafael Mafort
 
 ---
